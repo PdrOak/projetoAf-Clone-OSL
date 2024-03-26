@@ -1,0 +1,8 @@
+.header {
+    background: url("../assets/background-img.svg") no-repeat;
+    background-size: cover;
+}
+
+.header__titulo {
+    padding: 5em;
+}
